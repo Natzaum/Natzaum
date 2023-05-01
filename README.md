@@ -20,3 +20,5 @@ I mostly use these programming languange:
 </p>
 
 </details>
+
+![anime](https://user-images.githubusercontent.com/88217663/235543934-48f769ba-3730-4a09-8b19-6212d3667bdd.gif) 
