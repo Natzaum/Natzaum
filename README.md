@@ -1,19 +1,24 @@
-Natzaum
+<h1 align="center">Natzaum(Natã)</h1>
 
-<!--
-**Natzaum/Natzaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly use these programming languange:
 
-Here are some ideas to get you started:
+-   C++
+-   Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c++3&logoColor=white" alt="c++-logo"/>
+   <img src="https://img.shields.io/badge/javascript-e2cc73?style=for-the-badge&logo=javascript&logoColor=fffef9"/>
+<p>
+
+<br>
+
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natzaum&theme=dark&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Natzaum&theme=dark&hide_border=false">
 </p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Natzaum&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natzaum&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+</p>
+
+</details>
