@@ -21,4 +21,4 @@ I mostly use these programming languange:
 
 </details>
 
-![anime](https://user-images.githubusercontent.com/88217663/235543934-48f769ba-3730-4a09-8b19-6212d3667bdd.gif) 
+![anime](https://user-images.githubusercontent.com/88217663/235543934-48f769ba-3730-4a09-8b19-6212d3667bdd.gif) ![anime-aesthetic-anime](https://user-images.githubusercontent.com/88217663/235544484-be825301-9e84-4aca-b30e-a3914ec19109.gif)
