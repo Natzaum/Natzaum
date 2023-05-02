@@ -11,7 +11,7 @@ I mostly use these programming languange:
 <br>
 
 <p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Natzaum&theme=dark&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Natzaum&theme=dracula&hide_border=false">
 </p>
 
 <p align="center">
