@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natzaum&label=Profile%20views&color=0e75b6&style=flat" alt="natzaum" /> </p>
 
-- 🔭 I’m currently working on [ChatProject](https://github.com/Natzaum/ChatProject)
+- 🔭 I’m currently working on [AgendaHair](https://github.com/Natzaum/AgendaHair)
 
 - 🌱 I’m currently learning **Angular, Typescript**
 
