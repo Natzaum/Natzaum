@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AgendaHair](https://github.com/Natzaum/AgendaHair)
 
-- 🌱 I’m currently learning **Angular, Typescript**
+- 🌱 I’m currently learning **Javascript, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
