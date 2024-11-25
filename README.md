@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natzaum&label=Profile%20views&color=0e75b6&style=flat" alt="natzaum" /> </p>
 
-- 🔭 I’m currently working on [Shopping-Cart](https://github.com/Natzaum/shopping-cart)
-
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Languages and Tools:</h3>
