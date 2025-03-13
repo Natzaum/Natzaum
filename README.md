@@ -7,7 +7,7 @@
 
 <table>
   
-## 🛠 Languages and Tools:
+# 🛠 Languages and Tools:
 
   <tr>
     <td align="center" width="120">
