@@ -4,7 +4,9 @@
 ### A developer from Brazil  
 
 🌱 I’m currently learning **Node.js**  
+
 <table>
+  
 ## 🛠 Languages and Tools:
   <tr>
     <td align="center" width="120">
