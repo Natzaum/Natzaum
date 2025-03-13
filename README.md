@@ -5,9 +5,7 @@
 
 🌱 I’m currently learning **Node.js**  
 
-<table>
-  
-# 🛠 Languages and Tools:
+## 🛠 Languages and Tools:<table>
 
   <tr>
     <td align="center" width="120">
