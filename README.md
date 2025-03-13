@@ -4,9 +4,8 @@
 ### A developer from Brazil  
 
 🌱 I’m currently learning **Node.js**  
-
-## 🛠 Languages and Tools:
 <table>
+## 🛠 Languages and Tools:
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
