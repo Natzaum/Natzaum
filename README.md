@@ -40,3 +40,21 @@ Currently, I’m also learning **React** to strengthen my full-stack development
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natzaum&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats"/>
 </p>
+
+## 📬 Contact Me
+
+<div align="center">
+
+  <a href="mailto:natacezerbordignon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/natacezer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="tel:+5554996614730">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+
+</div>
