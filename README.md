@@ -38,7 +38,7 @@ Currently, I’m also learning **React** to strengthen my full-stack development
 ## My most used languages
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natzaum&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natzaum&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ## 📬 Contact Me
