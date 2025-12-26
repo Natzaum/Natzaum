@@ -35,12 +35,6 @@ Currently, I’m also learning **Python** to strengthen my backend/machine-learn
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
-## My most used languages
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natzaum&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats"/>
-</p>
-
 ## 📬 Contact Me
 
 <div align="center">
