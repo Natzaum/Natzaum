@@ -1,14 +1,15 @@
 <div align="center">
 
 # Hi, I'm Natã  
-I'm a Back-end Developer based in Rio Grande Do Sul, Brazil, passionate about building scalable and efficient applications.
+I am a Back-end Developer based in Rio Grande do Sul, Brazil.
 
-I started my programming journey in 2022, right before starting my Computer Science degree. Since then, I’ve been developing projects ranging from simple experiments to more advanced systems.
+I started my programming journey in 2022, shortly before beginning my Computer Science degree. Since then, I have developed projects ranging from simple experiments to more advanced systems.
 
-In 2024, I joined **Compass UOL** as a Software Engineering Intern, working with **Java, Spring Boot, MongoDB, and AWS**, where I helped build microservices and cloud solutions. After my time at **Compass UOL**, I decided to specialize in **Node.js** and **TypeScript**, as well as databases like **MySQL** and **PostgreSQL**.
+In 2024, I joined Compass UOL as a Software Engineering Intern, where I worked with Java, Spring Boot, MongoDB, and AWS, contributing to the development of microservices and cloud-based solutions.
 
-Since then, I’ve been learning these technologies and building several projects with them.  
-Currently, I’m also learning **Python** to strengthen my backend/machine-learning development skills.
+After my time at Compass UOL, I decided to specialize in Python and TypeScript, along with relational databases such as MySQL and PostgreSQL. Since then, I have been building multiple projects using these technologies.
+
+Currently, I am focused on developing Python-based REST APIs and deepening my knowledge of Machine Learning, aiming to strengthen my skills in backend architecture and data-driven systems.
 
 ## 🛠 Languages and Tools:
 
